@@ -1,0 +1,49 @@
+HELP.md
+app.log
+target/
+bin/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.metadata
+.mvn
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+.vs
+
+### Da Calendar Log Files ###
+interventionMementoDates.csv
+
+## PKCS #12
+#*.p12
+
+## DevSettings #12
+applications-dev.properties
+
